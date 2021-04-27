@@ -1,3 +1,3 @@
 1) https://codeforces.com/contest/1517/problem/D -- make a full picture of the code before you implement in order to find complexities and appropriate algo and data structures.
-2) https://atcoder.jp/contests/abc199/tasks/abc199_d
-3) https://atcoder.jp/contests/abc199/tasks/abc199_e
+2) https://atcoder.jp/contests/abc199/tasks/abc199_d  -- use of bitmask dp whenever it is required to iterate completely
+3) https://atcoder.jp/contests/abc199/tasks/abc199_e -- subset dp

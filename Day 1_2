@@ -1,0 +1,3 @@
+1) https://codeforces.com/problemset/problem/1497/C2 -- you need to get the easy version to get the intution that it needs to broken into 3 elements.
+2) https://codeforces.com/problemset/problem/1062/C -- based on modular arithmetic ; however beware of overflows.
+3) https://codeforces.com/problemset/problem/1474/C -- question based on sets and lower_bound.

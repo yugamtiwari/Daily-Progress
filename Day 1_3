@@ -1,0 +1,3 @@
+1) https://codeforces.com/problemset/problem/1284/C -- for such problems instead of individual contribution, see the contribution to the total sum instead.
+2) https://codeforces.com/contest/763/problem/A -- good observation that only one such edge can exist with different colored ends. You should first have thought
+what if all colors are equal, then if one color is different , then if two colors are different, then if the color on both sides of an edge is different.
